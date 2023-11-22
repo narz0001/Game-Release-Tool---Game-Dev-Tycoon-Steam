@@ -3,4 +3,4 @@ A tool for determining the best combination of game and system to release for th
 
 Uses web scrapping and data analytics to score combinations based on input from 4-5 tables.
 
-All rights reserved - Greenheart Games
+All rights reserved to the game data - Greenheart Games
